@@ -1,0 +1,86 @@
+\documentclass[12pt]{extarticle}
+
+\usepackage[a4paper,left=3cm,right=3cm,top=2cm,bottom=3.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{authblk}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{setspace}
+\usepackage{unicode-math}
+\usepackage{fontspec}
+\usepackage{tabularx}
+
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{TeX Gyre Cursor}
+
+\newcommand{\labinfo}[3]{
+    \begin{tabularx}{\textwidth}{lX}
+        \textbf{Art der Nutzung} & #1 \\
+        \textbf{Arbeitsplätze} & #2 \\
+        \textbf{Verantwortlich} & #3 \\
+    \end{tabularx}
+
+    \vspace{3mm}
+}
+
+\title{
+    \bfseries
+    \sffamily
+    Hygienekonzept für die Labore des Lehrstuhls für Medieninformatik
+}
+
+\author{Christian Wolff}
+\author{Andreas Schmid}
+\author{Alexander Bazo}
+\author{Martin Kocur}
+\author{Raphael Wimmer}
+\author{Martin Brockelmann}
+\author{Patricia Böhm}
+\author{Victoria Böhm}
+\author{Thomas Schmidt}
+
+\affil{Lehrstuhl für Medieninformatik, Universität Regensburg}
+
+\begin{document}
+
+\onehalfspacing
+\maketitle
+
+\noindent
+Um die Labore des Lehrstuhls für Medieninformatik zu benutzen, sind die in diesem Dokument aufgeführten Hygieneregeln einzuhalten.
+Werden die Labore für Nutzerstudien verwendet, so gelten zusätzliche Vorsichtsmaßnahmen.
+Die Hygieneregeln wurden passend zur COVID-19-Situation am 15. Mai 2020 aufgestellt.
+Sie werden regelmäßig überprüft und an die aktuelle Situation angepasst.
+
+\include{infos}
+
+\include{allgemein}
+
+\include{umsetzung}
+
+\include{HMD}
+
+\include{nutzerstudien}
+
+\include{labore}
+
+\clearpage
+
+\appendix
+
+\section{Hinweisschild: Hygienehinweise}
+
+\includegraphics[width=\textwidth]{{./supplements/hygienehinweis}}
+
+\section{Hinweisschild: Symptome}
+
+\includegraphics[width=\textwidth]{{./supplements/symptome}}
+
+\section{Hinweisschild: VR-Nutzerstudien}
+
+\includegraphics[width=\textwidth]{{./supplements/hmd}}
+
+\end{document}
