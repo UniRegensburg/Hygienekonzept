@@ -1,11 +1,13 @@
 all: material document
 
 document:
-	xelatex hygienekonzept.tex
+	$(MAKE) -C hygienekonzept/ all
+	cp hygienekonzept/hygienekonzept.pdf .
 
 material:
 	$(MAKE) -C supplements/ all
 
 clean:
 	$(MAKE) -C supplements/ clean
-	rm *.aux *.log *.pdf
+	$(MAKE) -C hygienekonzept/ clean
+	rm hygienekonzept.pdf
