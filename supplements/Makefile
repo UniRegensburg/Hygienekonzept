@@ -1,4 +1,4 @@
-all: symptome hygienehinweis hmd
+all: symptome hygienehinweis hmd hygieneprotokoll
 
 symptome:
 	xelatex symptome.tex
@@ -8,6 +8,9 @@ hygienehinweis:
 
 hmd:
 	xelatex hmd.tex
+
+hygieneprotokoll:
+	xelatex hygieneprotokoll.tex
 
 clean:
 	rm *.aux *.log *.pdf

@@ -1,0 +1,67 @@
+\documentclass[24pt, a4paper, landscape]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[pages=some]{background}
+
+\usepackage[a4paper,left=2cm,right=2cm,top=1cm,bottom=2cm]{geometry}
+
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{array}
+
+\graphicspath{{./img/}}
+
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\newcolumntype{s}{>{\hsize=.5\hsize\centering\arraybackslash}X}
+\newcolumntype{S}{>{\hsize=.8\hsize\centering\arraybackslash}X}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\raggedleft
+
+\includegraphics[width=0.2\textwidth]{logo}
+
+%\vspace{1cm}
+\sffamily
+\centering
+\Huge
+
+\textbf{Hygieneprotokoll}
+
+\vspace{1cm}
+
+\raggedright
+\LARGE
+
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{ | c | s | s | Y | Y | }
+    \hline
+    \textbf{Arbeitsplatz} & \textbf{Hardware desinfiziert?} & \textbf{Oberflächen desinfiziert?} & \textbf{Datum, Uhrzeit} & \textbf{Unterschrift} \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+    & & & & \\
+    \hline
+\end{tabularx}
+
+
+\end{document}
