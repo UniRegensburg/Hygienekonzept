@@ -11,10 +11,13 @@
 \usepackage{unicode-math}
 \usepackage{fontspec}
 \usepackage{tabularx}
+\usepackage{multirow}
 
 \setmainfont{TeX Gyre Pagella}
 \setsansfont{TeX Gyre Heros}
 \setmonofont{TeX Gyre Cursor}
+
+\graphicspath{{../supplements/img/}, {../supplements/}, {../raumpläne/}}
 
 \newcommand{\labinfo}[3]{
     \begin{tabularx}{\textwidth}{lX}
@@ -75,32 +78,36 @@ Sie werden regelmäßig überprüft und an die aktuelle Situation angepasst.
 
 \subsection{Hinweisschild: Hygienehinweise}
 
-\frame{\includegraphics[width=\textwidth]{{../supplements/hygienehinweis}}}
+\frame{\includegraphics[width=\textwidth]{{hygienehinweis}}}
 
 \subsection{Hinweisschild: Symptome}
 
-\frame{\includegraphics[width=\textwidth]{{../supplements/symptome}}}
+\frame{\includegraphics[width=\textwidth]{{symptome}}}
 
 \subsection{Hinweisschild: VR-Nutzerstudien}
 
-\frame{\includegraphics[width=\textwidth]{{../supplements/hmd}}}
+\frame{\includegraphics[width=\textwidth]{{hmd}}}
 
 \subsection{Hinweisschild: Check-in}
 
-\frame{\includegraphics[width=\textwidth]{{../supplements/checkin}}}
+\frame{\includegraphics[width=\textwidth]{{checkin}}}
 
 \subsection{Hygieneprotokoll}
 
-\frame{\includegraphics[width=1.4\textwidth, angle=270]{{../supplements/hygieneprotokoll}}}
+\frame{\includegraphics[width=1.4\textwidth, angle=270]{{hygieneprotokoll}}}
 
 \section{Raumpläne}
 
 \subsection{Future Interaction Lab}
 
+\begin{center}
+    \frame{\includegraphics[width=1.45\textwidth, angle=270]{{fil_konzept}}}
+\end{center}
+
 \subsection{Eyetracking-Classroom}
 
 \subsection{TechBase: VR4}
 
-\frame{\includegraphics[width=\textwidth]{{../raumpläne/vr4_konzept}}}
+\frame{\includegraphics[width=\textwidth]{{vr4_konzept}}}
 
 \end{document}
