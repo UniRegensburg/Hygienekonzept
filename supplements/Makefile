@@ -16,4 +16,4 @@ checkin:
 	xelatex checkin.tex
 
 clean:
-	rm *.aux *.log *.pdf
+	rm *.aux *.log *.out *.pdf

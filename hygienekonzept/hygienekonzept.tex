@@ -12,12 +12,16 @@
 \usepackage{fontspec}
 \usepackage{tabularx}
 \usepackage{multirow}
+\usepackage{hyperref}
 
 \setmainfont{TeX Gyre Pagella}
 \setsansfont{TeX Gyre Heros}
 \setmonofont{TeX Gyre Cursor}
 
 \graphicspath{{../supplements/img/}, {../supplements/}, {../raumpläne/}}
+
+\renewcommand\Authand{ und }
+\renewcommand\Authands{ und }
 
 \newcommand{\labinfo}[3]{
     \begin{tabularx}{\textwidth}{lX}
@@ -35,6 +39,7 @@
     Hygienekonzept für die Labore des Lehrstuhls für Medieninformatik
 }
 
+%\author{Christian Wolff \\ \href{mailto:christian.wolff@ur.de}{christian.wolff@ur.de}}
 \author{Christian Wolff}
 \author{Andreas Schmid}
 \author{Alexander Bazo}
