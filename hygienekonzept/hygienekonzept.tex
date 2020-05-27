@@ -1,4 +1,4 @@
-\documentclass[12pt]{extarticle}
+\documentclass[hidelinks,12pt]{extarticle}
 
 \usepackage[a4paper,left=3cm,right=3cm,top=2cm,bottom=2.5cm]{geometry}
 \usepackage{graphicx}
@@ -40,15 +40,15 @@
 }
 
 %\author{Christian Wolff \\ \href{mailto:christian.wolff@ur.de}{christian.wolff@ur.de}}
-\author{Christian Wolff}
 \author{Andreas Schmid}
 \author{Alexander Bazo}
 \author{Martin Kocur}
 \author{Raphael Wimmer}
 \author{Martin Brockelmann}
 \author{Patricia Böhm}
-\author{Victoria Böhm}
 \author{Thomas Schmidt}
+\author{Victoria Böhm}
+\author{Christian Wolff}
 
 \affil{Lehrstuhl für Medieninformatik, Universität Regensburg}
 
@@ -63,6 +63,9 @@ Werden die Labore für Nutzerstudien verwendet, so gelten zusätzliche Vorsichts
 Die Hygieneregeln wurden passend zur COVID-19-Situation am 15. Mai 2020 aufgestellt.
 Sie werden regelmäßig überprüft und an die aktuelle Situation angepasst.
 
+\newpage
+\tableofcontents 
+
 \include{infos}
 
 \include{allgemein}
@@ -75,76 +78,6 @@ Sie werden regelmäßig überprüft und an die aktuelle Situation angepasst.
 
 \include{labore}
 
-\clearpage
-
-\appendix
-
-\section{Hinweisschilder und Aushänge}
-
-\subsection{Hinweisschild: Hygienehinweise}
-
-\frame{\includegraphics[width=\textwidth]{{hygienehinweis}}}
-
-\subsection{Hinweisschild: Symptome}
-
-\frame{\includegraphics[width=\textwidth]{{symptome}}}
-
-\subsection{Hinweisschild: VR-Nutzerstudien}
-
-\frame{\includegraphics[width=\textwidth]{{hmd}}}
-
-\subsection{Hinweisschild: Check-in}
-
-\frame{\includegraphics[width=\textwidth]{{checkin}}}
-
-\subsection{Hinweisschild: Check-out}
-
-\frame{\includegraphics[width=\textwidth]{{checkout}}}
-
-\subsection{Hygieneprotokoll}
-
-\frame{\includegraphics[width=1.4\textwidth, angle=270]{{hygieneprotokoll}}}
-
-\section{Raumpläne}
-
-
-\begin{center}
-    \sffamily
-    \frame{
-    \begin{tabular}{ m{1.1cm} m{3cm} }
-        \multicolumn{2}{l}{\textbf{Legende}} \\
-        \vspace{2mm}
-        \includegraphics[width=1cm]{arbeitsplatz} & Arbeitsplatz \\
-        \includegraphics[width=1cm]{tisch} & Tisch \\
-        \includegraphics[width=1cm]{durchgang} & Tür \\
-        \includegraphics[width=1cm]{fenster} & Fenster \\
-        \includegraphics[width=1cm]{trennwand} & Trennwand \\
-    \end{tabular}
-    \quad
-    \begin{tabular}{ m{1.1cm} m{5cm} }
-        \vspace{2mm}
-        \includegraphics[width=1cm]{flächendesinfektion} & Flächendesinfektionsmittel \\
-        \includegraphics[width=1cm]{handdesinfektion} & Händedesinfektionsmittel \\
-        \includegraphics[width=1cm]{waschbecken} & Waschbecken \\
-        \includegraphics[width=1cm]{hinweisschilder} & Hinweisschilder \\
-    \end{tabular}
-    }
-\end{center}
-
-\subsection{Future Interaction Lab}
-
-\frame{\includegraphics[width=\textwidth]{{fil_konzept}}}
-
-%\begin{center}
-%    \frame{\includegraphics[width=1.45\textwidth, angle=270]{{fil_konzept}}}
-%\end{center}
-
-\subsection{Eyetracking-Classroom}
-
-\frame{\includegraphics[width=\textwidth]{{eyetracking-classroom_konzept}}}
-
-\subsection{TechBase: VR4}
-
-\frame{\includegraphics[width=\textwidth]{{vr4_konzept}}}
+\include{anhang}
 
 \end{document}
