@@ -1,4 +1,4 @@
-all: symptome hygienehinweis hmd hygieneprotokoll checkin checkout
+all: symptome hygienehinweis hmd hygieneprotokoll checkin checkin_gast checkout
 
 symptome:
 	xelatex symptome.tex
@@ -14,6 +14,9 @@ hygieneprotokoll:
 
 checkin:
 	xelatex checkin.tex
+
+checkin_gast:
+	xelatex checkin_gast.tex
 
 checkout:
 	xelatex checkout.tex
