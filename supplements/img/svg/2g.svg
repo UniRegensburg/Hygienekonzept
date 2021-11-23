@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="159.68214mm"
+   height="159.68214mm"
+   viewBox="0 0 159.68214 159.68214"
+   version="1.1"
+   id="svg1978"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="2g.svg"
+   inkscape:export-filename="/home/schmid/Repositories/Hygienekonzept/supplements/img/2g.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1972">
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path971"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path980"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6383">
+      <g
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="use6385"
+         inkscape:label="Clip">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           clip-path="none"
+           d="m 79.008512,84.010414 h 40.609458 c 13.09379,0 23.635,10.54121 23.635,23.634996 v 36.45172 c 0,13.09379 -10.54121,23.635 -23.635,23.635 H 79.008512 c -13.09379,0 -23.635,-10.54121 -23.635,-23.635 v -36.45172 c 0,-13.093786 10.54121,-23.634996 23.635,-23.634996 z"
+           id="path935" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6422">
+      <g
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         inkscape:label="Clip"
+         id="use6424">
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           clip-path="url(#clipPath6383)"
+           id="g931">
+          <g
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+             id="g929"
+             inkscape:label="Clip">
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               clip-path="none"
+               d="m 79.008512,84.010414 h 40.609458 c 13.09379,0 23.635,10.54121 23.635,23.634996 v 36.45172 c 0,13.09379 -10.54121,23.635 -23.635,23.635 H 79.008512 c -13.09379,0 -23.635,-10.54121 -23.635,-23.635 v -36.45172 c 0,-13.093786 10.54121,-23.634996 23.635,-23.634996 z"
+               id="path927" />
+          </g>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6484">
+      <rect
+         style="fill:#00ffff;fill-opacity:0.42325583;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6486"
+         width="63.075607"
+         height="113.85682"
+         x="-236.80081"
+         y="-52.054001" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6492">
+      <rect
+         style="fill:#00ffff;fill-opacity:0.42325583;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6494"
+         width="104.76965"
+         height="51.850288"
+         x="-258.71689"
+         y="71.424515" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask6500">
+      <rect
+         style="fill:#00ffff;fill-opacity:0.42325583;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6502"
+         width="121.8749"
+         height="68.420998"
+         x="-278.49484"
+         y="-98.558899" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6518">
+      <rect
+         style="fill:#00ffff;fill-opacity:0.42325583;stroke:none;stroke-width:4.94879389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6520"
+         width="123.21125"
+         height="64.411957"
+         x="35.814117"
+         y="81.84803" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="205.71429"
+     inkscape:cy="303.57143"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata1975">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.920828,-17.5875)">
+    <circle
+       r="78.241074"
+       cy="97.428574"
+       cx="96.761902"
+       id="circle1282"
+       style="fill:#004488;fill-opacity:1;stroke:#000000;stroke-width:3.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#004488;fill-opacity:1;stroke:#ffffff;stroke-width:1.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path826"
+       cx="96.761902"
+       cy="97.428574"
+       r="78.241074" />
+    <rect
+       style="fill:#004488;fill-opacity:1;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6550"
+       width="4.1426778"
+       height="34.878674"
+       x="69.890984"
+       y="115.9249" />
+    <rect
+       y="115.9249"
+       x="120.69096"
+       height="34.878674"
+       width="4.1426778"
+       id="rect6552"
+       style="fill:#004488;fill-opacity:1;stroke:none;stroke-width:3.86500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2014"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,21.078566,1.3345238)"><flowRegion
+         id="flowRegion2016"><rect
+           id="rect2018"
+           width="454.28571"
+           height="381.42856"
+           x="74.285713"
+           y="120.66592" /></flowRegion><flowPara
+         id="flowPara2020"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:333.333px;font-family:'Frutiger Next LT W1G';-inkscape-font-specification:'Frutiger Next LT W1G Bold';fill:#ffffff">2G</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2022"
+       style="font-style:normal;font-weight:normal;font-size:53.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,21.819201,24.435017)"><flowRegion
+         id="flowRegion2024"><rect
+           id="rect2026"
+           width="298.31403"
+           height="267.86719"
+           x="162.85715"
+           y="366.38022" /></flowRegion><flowPara
+         id="flowPara2028"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">geimpft</flowPara><flowPara
+         id="flowPara2030"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">genesen</flowPara><flowPara
+         id="flowPara2032"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff" /></flowRoot>
+  </g>
+</svg>
